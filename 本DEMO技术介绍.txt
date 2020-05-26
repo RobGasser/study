@@ -1,0 +1,3 @@
+项目技术栈包含：
+前端：vue、vue-router、element-ui、axios、echarts
+后端：node、express、jwt、mysql、sequelize
